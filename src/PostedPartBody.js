@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-class InputModeBody extends React.Component{
+class PostedPartBody extends React.Component{
     constructor(props) {
         super(props);
     }
@@ -9,9 +9,9 @@ class InputModeBody extends React.Component{
     render(){
         return(
             <div>
-                input DAYO
+                PostedPart DAYO
             </div>
         );
     }
 }
-export default InputModeBody;
+export default PostedPartBody;

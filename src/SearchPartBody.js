@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-class HomeModeBody extends React.Component{
+class SearchPartBody extends React.Component{
     constructor(props) {
         super(props);
     }
@@ -9,9 +9,9 @@ class HomeModeBody extends React.Component{
     render(){
         return(
             <div>
-                home DAYO
+                SearchPart DAYO
             </div>
         );
     }
 }
-export default HomeModeBody;
+export default SearchPartBody;

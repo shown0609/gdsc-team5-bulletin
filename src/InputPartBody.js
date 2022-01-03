@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-class SearchModeBody extends React.Component{
+class InputPartBody extends React.Component{
     constructor(props) {
         super(props);
     }
@@ -9,9 +9,9 @@ class SearchModeBody extends React.Component{
     render(){
         return(
             <div>
-                SearchMode DAYO
+                inputPart DAYO
             </div>
         );
     }
 }
-export default SearchModeBody;
+export default InputPartBody;
